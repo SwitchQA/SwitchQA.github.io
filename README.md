@@ -1,2 +1,0 @@
-# SwitchQA.github.io
-Presentation
