@@ -2032,86 +2032,86 @@ jsonPWrapper ({
       {
         "Folder": "delete.feature",
         "Total": 2,
-        "Passing": 0,
+        "Passing": 2,
         "Failing": 0,
-        "Inconclusive": 2
+        "Inconclusive": 0
       },
       {
         "Folder": "averageComments.feature",
         "Total": 4,
-        "Passing": 0,
+        "Passing": 4,
         "Failing": 0,
-        "Inconclusive": 4
+        "Inconclusive": 0
       },
       {
         "Folder": "averagePosts.feature",
         "Total": 4,
-        "Passing": 0,
+        "Passing": 4,
         "Failing": 0,
-        "Inconclusive": 4
+        "Inconclusive": 0
       },
       {
         "Folder": "postWithMoreComments.feature",
         "Total": 5,
-        "Passing": 0,
+        "Passing": 5,
         "Failing": 0,
-        "Inconclusive": 5
+        "Inconclusive": 0
       },
       {
         "Folder": "topThreeMembers.feature",
         "Total": 3,
-        "Passing": 0,
+        "Passing": 3,
         "Failing": 0,
-        "Inconclusive": 3
+        "Inconclusive": 0
       },
       {
         "Folder": "percentagePostsWithoutComments.feature",
         "Total": 4,
-        "Passing": 0,
+        "Passing": 4,
         "Failing": 0,
-        "Inconclusive": 4
+        "Inconclusive": 0
       },
       {
         "Folder": "highlightsPostsPopular.feature",
         "Total": 2,
-        "Passing": 0,
+        "Passing": 2,
         "Failing": 0,
-        "Inconclusive": 2
+        "Inconclusive": 0
       },
       {
         "Folder": "us022-recent.feature",
         "Total": 6,
-        "Passing": 0,
+        "Passing": 6,
         "Failing": 0,
-        "Inconclusive": 6
+        "Inconclusive": 0
       },
       {
         "Folder": "redTextPostsTimestamp.feature",
         "Total": 4,
-        "Passing": 0,
+        "Passing": 4,
         "Failing": 0,
-        "Inconclusive": 4
+        "Inconclusive": 0
       },
       {
         "Folder": "greenTextPostsTimestamp.feature",
         "Total": 4,
-        "Passing": 0,
+        "Passing": 4,
         "Failing": 0,
-        "Inconclusive": 4
+        "Inconclusive": 0
       },
       {
         "Folder": "us025.feature",
         "Total": 3,
-        "Passing": 0,
+        "Passing": 3,
         "Failing": 0,
-        "Inconclusive": 3
+        "Inconclusive": 0
       },
       {
         "Folder": "highlightPostsWithoutComments.feature",
         "Total": 6,
-        "Passing": 0,
+        "Passing": 6,
         "Failing": 0,
-        "Inconclusive": 6
+        "Inconclusive": 0
       }
     ],
     "NotTestedFolders": [
@@ -2202,15 +2202,15 @@ jsonPWrapper ({
     ],
     "Scenarios": {
       "Total": 47,
-      "Passing": 0,
+      "Passing": 47,
       "Failing": 0,
-      "Inconclusive": 47
+      "Inconclusive": 0
     },
     "Features": {
       "Total": 12,
-      "Passing": 0,
+      "Passing": 12,
       "Failing": 0,
-      "Inconclusive": 12
+      "Inconclusive": 0
     },
     "FoldersWithTestKinds": [
       {
@@ -2300,6 +2300,6 @@ jsonPWrapper ({
     ]
   },
   "Configuration": {
-    "GeneratedOn": "10 December 2023 21:31:26"
+    "GeneratedOn": "25 December 2023 21:31:26"
   }
 });
